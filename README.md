@@ -1,7 +1,5 @@
  
-### Hi there 👋 Thiago in here!
-
-Here are some ideas to get you started:
+### Hi there 👋 Thiago coding here :computer:
 
 - 🚀  &nbsp; I’m currently working at [Rocketseat](https://blog.rocketseat.com.br/author/thiago/)
 - 🌱  &nbsp; I’m currently learning all about Javascript ecosystem
