@@ -8,20 +8,13 @@
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
-<em>🚀  &nbsp; I’m currently blogging at [Rocketseat](https://blog.rocketseat.com.br/author/thiago/) 
-</em>
-<em>🌱  &nbsp; I’m currently learning all about Javascript ecosystem 
-</em>
-<em>🤔  &nbsp; I'm looking help for undestand how create table w/out table
-</em>
-<em>💬  &nbsp; Ask me about what you want to know.                                                    
-</em>
-<em>📫  &nbsp; How to reach me: [tgmarinho.com](https://tgmarinho.com) 🦸                            
-</em>
-<em>😄  &nbsp; Pronouns: he/him                                      
-</em>
-<em>⚡  &nbsp; Fun fact: oche? Sei não! / I don't know
-</em>
+- 🚀  &nbsp; I’m currently blogging at [Rocketseat](https://blog.rocketseat.com.br/author/thiago/) 
+- 🌱  &nbsp; I’m currently learning all about Javascript ecosystem 
+- 🤔  &nbsp; I'm looking help for undestand how create table w/out table
+- 💬  &nbsp; Ask me about what you want to know.                                                    
+- 📫  &nbsp; How to reach me: [tgmarinho.com](https://tgmarinho.com) 🦸                            
+- 😄  &nbsp; Pronouns: he/him                                      
+- ⚡  &nbsp; Fun fact: oche? Sei não! / I don't know
       
 </td  style="text-align: center; border: 0">
 <td>
