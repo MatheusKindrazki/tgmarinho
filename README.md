@@ -5,7 +5,7 @@
 <h2 style="text-align: center;">Hi there 👋 Thiago coding here :computer:</h2>
 
 
-<table>
+<table boder="0">
 <tr>
 <td>
 
