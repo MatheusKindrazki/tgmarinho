@@ -1,3 +1,6 @@
+<div style="display: flex; flex-wrap: wrap; align-content: center;">
+  
+
 ### Hi there 👋 Thiago in here!
 
 Here are some ideas to get you started:
@@ -10,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡  &nbsp; Fun fact: oche? Sei não! / I don't know
 
 ![](https://github.com/tgmarinho/tgmarinho/blob/master/anime.gif?raw=true)
+
+</div>
