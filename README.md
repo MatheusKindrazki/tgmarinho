@@ -1,6 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; align-content: center;">
-  
-
+ 
 ### Hi there 👋 Thiago in here!
 
 Here are some ideas to get you started:
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 
 ![](https://github.com/tgmarinho/tgmarinho/blob/master/anime.gif?raw=true)
 
-</div>
