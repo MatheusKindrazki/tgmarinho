@@ -2,7 +2,7 @@
 
 
 
-<h2 style="text-align: center;">Hi there 👋 Thiago coding here :computer:</h2>
+<h2 style="text-align: center;">♥️ Hi there 👋 Thiago coding here :computer:</h2>
 
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
@@ -33,6 +33,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
+*Made with 😡 of < table />*
 
 </td>
 
