@@ -1,7 +1,7 @@
  
 ### Hi there 👋 Thiago coding here :computer:
 
-- 🚀  &nbsp; I’m currently working at [Rocketseat](https://blog.rocketseat.com.br/author/thiago/)
+- 🚀  &nbsp; I’m currently blogging at [Rocketseat](https://blog.rocketseat.com.br/author/thiago/)
 - 🌱  &nbsp; I’m currently learning all about Javascript ecosystem
 - 💬  &nbsp; Ask me about what you want to know.
 - 📫  &nbsp; How to reach me: [tgmarinho.com](https://tgmarinho.com)
