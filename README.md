@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄  &nbsp; Pronouns: he/him
 - ⚡  &nbsp; Fun fact: oche? Sei não! / I don't know
 
-![anime](./anime.gif)
+![](https://github.com/tgmarinho/tgmarinho/blob/master/anime.gif?raw=true)
